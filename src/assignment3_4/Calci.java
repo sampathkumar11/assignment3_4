@@ -37,7 +37,7 @@ System.out.println("operator "+opr);
 		
 		//Double fn=Double.parseDouble(args[0]);
 		
-		System.out.println("Enter the Arithmetic operator :\\n + for addition//n - for Subtraction//n * for Multiplication//n / for Division");
+		System.out.println("Enter the Arithmetic operator :\n + for addition\n - for Subtraction\n * for Multiplication\n / for Division");
 		String opr=scnr.nextLine();
 		//Double fn=Double.parseDouble(fns);
 		
